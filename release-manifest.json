@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "changelog": "Novidades desta versão\n\n• Sistema de Monitoramento\n• Update atualização",
-  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.0/data.bin",
-  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.0/core.bin",
+  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.1/data.bin",
+  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.1/core.bin",
   "data_size": 369427,
-  "core_size": 4921255
+  "core_size": 4921437
 }
