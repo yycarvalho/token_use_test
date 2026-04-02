@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": "🆕 Novidades desta versão\n\n• Novo layout\n• Sistema de stream\n• Novo botão de monitoramento nas opções\n• Acompanhe em tempo real o status do equipamento",
-  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.0.2/data.bin",
-  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.0.2/core.bin",
+  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.0.3/data.bin",
+  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.0.3/core.bin",
   "data_size": 369624,
-  "core_size": 4915505
+  "core_size": 4915577
 }
