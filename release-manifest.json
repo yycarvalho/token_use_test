@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "changelog": "Novidades desta versão\n\n• Tela de monitoramento com refrash vindo do servidor.",
-  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.6/data.bin",
-  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.6/core.bin",
-  "data_size": 370160,
-  "core_size": 4921999
+  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.7/data.bin",
+  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.1.7/core.bin",
+  "data_size": 370142,
+  "core_size": 4922004
 }
