@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "changelog": "Novidades desta versão\n\n• Tela de monitoramento com refrash vindo do servidor.• Correção de SSL de atualização",
-  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.1/data.bin",
-  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.1/core.bin",
-  "data_size": 371023,
-  "core_size": 12991867
+  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.2/data.bin",
+  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.2/core.bin",
+  "data_size": 371140,
+  "core_size": 12994148
 }
