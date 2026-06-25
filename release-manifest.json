@@ -1,8 +1,6 @@
 {
-  "version": "1.2.6",
-  "changelog": "Novidades desta versão\n\n• Nova tela de monitoramento.• Nova design• Linha do tempo de equipamentos offline",
-  "data_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.6/data.bin",
-  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.6/core.bin",
-  "data_size": 135,
-  "core_size": 13573799
+  "version": "1.2.7",
+  "changelog": "Novidades desta versão\n\n• Nova tela de monitoramento.\n• Nova design.\n• Linha do tempo de equipamentos offline",
+  "core_url": "https://github.com/yycarvalho/token_use_test/releases/download/v1.2.7/core.bin",
+  "core_size": 12454372
 }
